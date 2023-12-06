@@ -1,5 +1,5 @@
 {
-  "name": "@bavatech/eslint-config",
+  "name": "@libercapital/eslint-config",
   "version": "1.0.2",
   "main": "index.js",
   "exports": {
