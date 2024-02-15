@@ -1,6 +1,6 @@
 {
   "name": "@libercapital/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "exports": {
     ".": "./index.js"
@@ -10,16 +10,16 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.13.2",
-    "@typescript-eslint/parser": "^6.13.2",
-    "eslint": "^8.55.0",
-    "prettier": "^3.1.0"
+    "@typescript-eslint/eslint-plugin": "^7.0.1",
+    "@typescript-eslint/parser": "^7.0.1",
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.5"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.13.2",
-    "@typescript-eslint/parser": "^6.13.2",
-    "eslint": "^8.55.0",
-    "prettier": "^3.1.0"
+    "@typescript-eslint/eslint-plugin": "^67.0.0",
+    "@typescript-eslint/parser": "^67.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
   },
   "publishConfig": {
     "@bavatech:registry": "https://gitlab.com/api/v4/projects/38815796/packages/npm/"
