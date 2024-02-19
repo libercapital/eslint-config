@@ -1,4 +1,4 @@
-# ESLint Bava
+# ESLint Libercapital
 
 ## Basic setup
 
@@ -32,7 +32,7 @@ indent_style = tab
 
 ```json
 {
-  "extends": ["@bavatech/eslint-config"]
+  "extends": ["@libercapital/eslint-config"]
 }
 ```
 
