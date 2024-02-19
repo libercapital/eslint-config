@@ -8,8 +8,6 @@
 root = true
 
 [*]
-
-# Change these settings to your own preference
 indent_style = space
 indent_size = 2
 end_of_line = lf
