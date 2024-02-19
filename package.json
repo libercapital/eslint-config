@@ -21,9 +21,6 @@
     "eslint": "^8.0.0",
     "prettier": "^3.0.0"
   },
-  "publishConfig": {
-    "@bavatech:registry": "https://gitlab.com/api/v4/projects/38815796/packages/npm/"
-  },
   "contributors": [
     {
       "name": "Julia Pinheiro"
